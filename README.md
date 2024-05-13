@@ -1,4 +1,4 @@
-# Line-Outage-Identification
+# Fault Detection on Powerline
 
 Model: Multinomial Logistic Regression 
 
